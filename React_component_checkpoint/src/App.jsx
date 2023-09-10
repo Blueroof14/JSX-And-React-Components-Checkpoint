@@ -19,11 +19,11 @@ const App = () => {
                     <Card.Title>{product.product_name}</Card.Title>
                     <Card.Subtitle className="mb-2 text-muted">{product.product_dec}</Card.Subtitle>
                     <Card.Text>
-                     Bag Sack Laptop Backpack
+                     Bag Sack Laptop Backpack work
 
                     </Card.Text>
                     <Card.Img src={david} alt='Bag' className='Card-img-top'  />
-                    <Card.Link href="#">Read More ...</Card.Link>
+                    <Card.Link href="#">Read More.... .....</Card.Link>
                 </Card.Body>
                
             </Card> 
